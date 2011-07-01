@@ -1,0 +1,16 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Interop.AgentObjects.dll
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\AxInterop.AgentObjects.dll
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Interop.AgentObjects.dll
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\AxInterop.AgentObjects.dll
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
